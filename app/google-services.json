@@ -1,0 +1,51 @@
+{
+  "project_info": {
+    "project_number": "815135613772",
+    "firebase_url": "https://gdo22-f67c9.firebaseio.com",
+    "project_id": "gdo22-f67c9",
+    "storage_bucket": "gdo22-f67c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815135613772:android:9ad69eb16fc3cac7",
+        "android_client_info": {
+          "package_name": "net.pcswv.garagedooropener"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "815135613772-n9h75n889f8i111t4077gvjdscdl6a6e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "net.pcswv.garagedooropener",
+            "certificate_hash": "FD6BEC1BADA7D8E007411A5F4E8D1F916CF84085"
+          }
+        },
+        {
+          "client_id": "815135613772-qbuqv62jdco6v4if2drnk8ikkojfp7ar.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "815135613772-qbuqv62jdco6v4if2drnk8ikkojfp7ar.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
